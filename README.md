@@ -27,6 +27,10 @@ So that the entire video 'library' from Khan Academy can be made available to pe
 
 ---
 
+## Demo ## 
+
+Check out https://zubairlk.github.io/ka-static-demo/
+
 ## Usage ## 
 
 Run two scripts
